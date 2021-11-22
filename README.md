@@ -1,11 +1,19 @@
 # CS640
+
 Final Project CS640 Boston University
+
 Group Members:
+
   Finn Jensen
+  
   Nick Zotalis
+  
   Keith Tyser
+  
   Aditya Agrawal
+  
   Minh Le Nguyen
+  
  
 Topic:
 (3)	Demographic (Age (<21 and >=21) and Race (black, white, Hispanic/Latino, Asian) prediction of Twitter users. You are allowed to but are not required to predict the multiracial class. The data for this project is available in this directory. The training data is in the file labeled_users.csv in the directory. Description about this data can be found in the file README in the directory. 
