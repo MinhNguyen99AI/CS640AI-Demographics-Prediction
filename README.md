@@ -13,7 +13,11 @@ Group Members:
   Aditya Agrawal
   
   Minh Le Nguyen
-  
+
+Project Write Up: https://docs.google.com/document/d/1hGIXt37YPBSDi7Lcl1acnfngKjwQA4o16ffWl9D9DpQ/edit?usp=sharing
+
+Project Pptx presentation: https://docs.google.com/presentation/d/15-OCQ7yshScdmePRDjTCr6ZV4McLflT1vGuGkbD3Dgw/edit?usp=sharing
+
  
 Topic:
 (3)	Demographic (Age (<21 and >=21) and Race (black, white, Hispanic/Latino, Asian) prediction of Twitter users. You are allowed to but are not required to predict the multiracial class. The data for this project is available in this directory. The training data is in the file labeled_users.csv in the directory. Description about this data can be found in the file README in the directory. 
