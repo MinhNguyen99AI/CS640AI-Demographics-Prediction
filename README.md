@@ -18,6 +18,8 @@ Project Write Up: https://docs.google.com/document/d/1hGIXt37YPBSDi7Lcl1acnfngKj
 
 Project Pptx presentation: https://docs.google.com/presentation/d/15-OCQ7yshScdmePRDjTCr6ZV4McLflT1vGuGkbD3Dgw/edit?usp=sharing
 
+Project Google Drive file: https://drive.google.com/drive/folders/1c1zewNOxhhgYFve1eFI4y3HFJ_fKWm-C?usp=sharing
+
  
 Topic:
 (3)	Demographic (Age (<21 and >=21) and Race (black, white, Hispanic/Latino, Asian) prediction of Twitter users. You are allowed to but are not required to predict the multiracial class. The data for this project is available in this directory. The training data is in the file labeled_users.csv in the directory. Description about this data can be found in the file README in the directory. 
